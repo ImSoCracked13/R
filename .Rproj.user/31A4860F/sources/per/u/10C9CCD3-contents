@@ -1,0 +1,3 @@
+dat <- read.csv("D:/Studies/R/CW/e-shop clothing 2008.csv", sep = ";")
+fix(dat)
+
